@@ -2,7 +2,8 @@
 
 FluxCLI is a robust, automated ETL (Extract, Transform, Load) pipeline designed to process daily sales data. It extracts data from CSV files, cleans and transforms it, loads valid records into a SQLite database, and sends execution reports via Email and Slack.
 
-![Execution Report](assets/execution_report.png)
+<img width="698" height="561" alt="image" src="https://github.com/user-attachments/assets/257c697f-1684-49c8-9b2d-a45aa1c3204f" />
+
 
 ## Features
 
